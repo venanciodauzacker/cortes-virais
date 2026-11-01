@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+*.bak-*
+scripts/mascara/mascara
+.DS_Store
+motion/out/
